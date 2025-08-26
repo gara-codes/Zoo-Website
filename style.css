@@ -53,6 +53,10 @@ body{
     margin-top: calc(80px + 40px); 
     padding-bottom: 40px;         
     min-height: calc(100vh - 120px); 
+    background-image: url(images/map.png);
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 #Main2 img{
