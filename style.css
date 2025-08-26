@@ -48,18 +48,17 @@ body{
 
 }
 
-#MapPic {
-    margin-top: calc(80px + 40px);
-    padding-bottom: 40px;
-    min-height: calc(100vh - 120px);
-    overflow: hidden; 
+
+#Main2{
+    margin-top: calc(80px + 40px); 
+    padding-bottom: 40px;         
+    min-height: calc(100vh - 120px); 
 }
 
-#MapPic img {
+#Main2 img{
     display: block;
     width: 100%;
-    height: 100%;
-    object-fit: cover;
+    height: auto;
 }
 
 
